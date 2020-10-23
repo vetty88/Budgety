@@ -1,0 +1,38 @@
+{
+  "name": "budgety",
+  "version": "1.0.0",
+  "description": "Tracking your Budget!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "lite-server": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
+  },
+  "author": "Yvette Waller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coding-boot-camp/unit18hw/issues"
+  },
+  "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "heroku": "^7.46.2",
+    "lite-server": "^2.5.3",
+    "logger": "0.0.1",
+    "mongoose": "^5.10.9",
+    "morgan": "^1.9.1",
+    "skeleton": "^0.1.2"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "budget",
+    "finance",
+    "tracker",
+    "node"
+  ]
+}
