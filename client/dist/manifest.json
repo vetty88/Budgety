@@ -31,8 +31,8 @@
       "type": "image/png"
     }
   ],
-  "name": "Newsy app",
-  "short_name": "Newsy",
+  "name": "Budgety app",
+  "short_name": "Budgety",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/",
