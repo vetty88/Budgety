@@ -22,8 +22,9 @@
 
   Repo: https://github.com/Vetty88/Budgety
 
-Video of app in action, see file: https://github.com/vetty88/Note-Taker/blob/master/Video.mp4
-Heroku App: (Example): https://yw-budgety.herokuapp.com/
+ Video of app in action, see file: https://github.com/vetty88/Budgety/blob/main/Video.mp4
+
+ Heroku App: (Example): https://yw-budgety.herokuapp.com/
 
 
 ## Installation
