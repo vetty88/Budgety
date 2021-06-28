@@ -1,64 +1,66 @@
 
 
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap" rel="stylesheet">
+
+<p>
+    <img src="./YWlogo.png" align="right" height="500px" width="auto" alt="Logo"/>
+<h1 style="font-family:Kaushan Script"> 🌟 Budgety Project 🌟 </h1>
  <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [License](#license)
-- [Contact](#contact)
-- [Creator and Acknowledgements](#creator-and-acknowledgements)
-- [Badges](#badges)
+* 🚀 [About the Project](#answers.project)
+* 🛠️ [Installation](#installation)
+* 😁 [Usage](#usage)
+* ➕ [Contributing](#contributing)
+* ⁉️ [Tests](#tests)
+* 📑[License](#license)
+* 😎[Contact](#contact)
+* ❤️ [Creator & Acknowledgements](#acknowledgements)
+</p>
+<br><br>
+<p>
+<h2> 🚀 About ## Budgety project </h2>
 
-<h1> ## Budgety </h1>
-
-  Tracks Income and Expenses and plots them on a graph
+  This app tracks income and expenses then plots them on a graph
 
   Screenshot of Project (Google Chrome): 
   ![Screenshot](./Screen.PNG?raw=true)
 
-  Repo: https://github.com/Vetty88/Budgety
+  Repo: https://github.com/vetty88/Budgety
 
- Video of app in action, see file: https://github.com/vetty88/Budgety/blob/main/Video.mp4
+</p>
+<p>
+<h2> 🛠️ Installation </h2>
+**To get a local copy up and running follow these simple steps.**
 
- Heroku App: (Example): https://yw-budgety.herokuapp.com/
 
 
-## Installation
-To get a local copy up and running follow these simple steps.
-
-In Terminal run NPM Install to install dependencies. Run Server.JS file in terminal to test
-
-Prerequisites
-This is an example of how to list things you need to use the software and how to install them.
+<h3> Prerequisites </h3>
 
 Installation-
   Clone the repo
-    git clone https://github.com/Vetty88/Budgety.git
+    git clone https://github.com/vetty88/Budgety.git
   Install NPM packages
     npm install
     npm inquirer
     npm audit fix
-  Then open index.js file in console log and run
-    node index.js
-  You will be taken through a series of questions (user prompts) which will then lead to the generation of your new readme.md file!
 
+<h2> 😁 Usage </h2>
 
-## Usage
+This project can be used for budgeting, tracking expenses, plotting information on a graph. 
 
-This project can be used for undefined. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 For more examples, please refer to the Documentation
 
-## Contributing
+<h2> ➕ Contributing </h2>
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Regarding this project I respectfully make the following requests regarding contributions:
+</p>
+<p>
 
-
-You are welcome to contribute to this project
+you are welcome to contribute to this project
 
 Fork the Project
   Create your Feature Branch 
@@ -69,33 +71,29 @@ Fork the Project
     (git push origin feature/AmazingFeature)
   Open a Pull Request
 
-## Tests
+<h2> ⁉️ Tests </h2>
 
 See the open issues for a list of proposed features (and known issues). Testing completed and any known issues include the following:
- Testing complete in Local Server and Heroku App. No known bugs.
+
+No known bugs
  
-## License
+<h2> 📑 License <h2>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-## Contact
+![Made with love in Bairnsdale ](https://madewithlove.now.sh/au?heart=true&template=plastic&text=Bairnsdale+)
+</p>
+<p>
+<h2> 😎 Contact </h2>
 
 Your Name - vetty88@gmail.com
 
-Project Link: https://github.com/Vetty88/Budgety
+Project Link: https://github.com/vetty88/Budgety
 
-## Creator and Acknowledgements
-Github User: Vetty88
+<h2> ❤️ Creator and Acknowledgements </h2>
 
-
-Yvette Waller 2020
-Credits Codebase Author: Monash University/Trilogy Education.
-
-Resources utilised to edit the code:
-
-Monash University ReadMe and Slide Materials Mozilla MDN WebDocs: https://developer.mozilla.org/en-US/ W3 Schools: https://www.w3schools.com/ Stack Overflow: https://www.stackoverflow.com/
+Github User: vetty88
 
 
-## Badges
-
-![Made with love in Bairnsdale ](https://madewithlove.now.sh/au?heart=true&template=plastic&text=Bairnsdale+)
+Yvette Waller 2021
+Credits 
+** </p>
